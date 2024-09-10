@@ -18,15 +18,4 @@ I'm a front-end developer with a strong focus on building robust and scalable we
 
 **Feel free to explore my projects, connect with me on [https://x.com/JerryQuan_], or reach out for a chat!** 
 
----
-
-**Remember to:**
-
-* **Customize it:**  Add details about your specific areas of expertise or projects you're proud of. 
-* **Link to your portfolio:**  Show off your skills and experience with relevant project examples.
-* **Use keywords:**  Include relevant keywords from your tech stack to help potential employers find you.
-* **Make it engaging:**  Share your passion for development and what motivates you. 
-
-Good luck! 
-
 
